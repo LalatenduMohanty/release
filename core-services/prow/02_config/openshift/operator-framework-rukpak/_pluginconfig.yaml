@@ -22,6 +22,7 @@ label:
       - perdasilva
       - joelanford
       - oceanc80
+      - lalatendumohanty
       label: backport-risk-assessed
 lgtm:
 - repos:
